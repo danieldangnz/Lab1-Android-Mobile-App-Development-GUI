@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Welcome to CS102 paper</string>
+
+    <!--Add "cs102_title" variable containing "text" of TextView -->
+    <string name="cs102_title"><u>CS102 paper:\n</u>Website and Mobile App Development Principles</string>
+</resources>

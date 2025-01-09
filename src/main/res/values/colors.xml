@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9742CF</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Add text_color variable to define text color of TextView-->
+    <color name="text_color">#ff0019</color>
+    <!--Add "transparent" variable to define transparent color-->
+    <color name="transparent">#00000000</color>
+
+</resources>
