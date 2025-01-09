@@ -23,3 +23,5 @@ Best practices:
 - Create background drawable in /drawable/ folder
 - Create menu's items in /menu/ folder
 
+![lab1-AndroidAppGUI](https://github.com/user-attachments/assets/a7510ca7-e1f0-4df6-9aee-6bdfd8f3c825)
+
